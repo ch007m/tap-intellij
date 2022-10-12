@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: GIT-SOURCE-URL
+      url: https://github.com/ch007m/tap-intellij.git
       ref:
         branch: main
